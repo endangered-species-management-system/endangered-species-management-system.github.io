@@ -1,4 +1,4 @@
-Endangered Species Management System:
+Endangered Species Management System (ESMS):
 Manage endangered species investigation data and assign researchers.
 
 Copyright (C) 2022  Todd Nordquist
