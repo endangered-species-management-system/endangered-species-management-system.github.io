@@ -7,4 +7,4 @@ order: 20
 
 # Wireframe
 
-[![ERD diagram](images/wireframe-android.png)](pdf/wireframe-android.pdf)
+[![Wireframe](images/wireframe.png)](pdf/wireframe.pdf)
