@@ -7,4 +7,4 @@ order: 20
 
 # Wireframe
 
-[![Wireframe](images/wireframe-android.png)](pdf/wireframe-android.pdf)
+[![Wireframe](images/wireframe-test.svg)](pdf/wireframe-android.pdf)
